@@ -13,7 +13,7 @@ l10n_repo: https://github.com/openfoodfoundation/l10n_br.git
 timezone: Brasilia
 
 # Used for the LetsEncrypt email setting
-developer_email: administrativo@openfoodbrasil.com.br
+developer_email: agriculturafamiliar@pragmacode.com.br
 
 # Users listed here will have their key from /files/keys added to the unicorn_user
 users_sysadmin:
