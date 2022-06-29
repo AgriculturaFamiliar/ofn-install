@@ -100,6 +100,9 @@
         #      tags: brotli
 
     - role: jdauphant.nginx
+      nginx_configs:
+        server_names:
+          - server_names_hash_bucket_size 128
       become: yes
       tags: nginx
 
